@@ -75,6 +75,10 @@ section.grey {
 {
 display: inline-block;
 }
+#prenom
+{
+	font-size: 2em;
+}
 #presentation
 {
 	display: block;
