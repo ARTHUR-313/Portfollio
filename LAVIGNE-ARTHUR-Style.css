@@ -311,7 +311,7 @@ footer h1
 .bouton:hover{
 	background-color: #ffffff;
 	border: 2px solid #1f69ec;
-	box-shadow: 10px 5px 5px #719fee;
+	#box-shadow: 10px 5px 5px #719fee;
 	color: #1f69ec;
 	text-align: center;
 	font-size: 22px;
