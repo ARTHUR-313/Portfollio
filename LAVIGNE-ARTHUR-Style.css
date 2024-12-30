@@ -54,23 +54,6 @@ section.grey {
 	text-align: center;
 	color: black;
 }
-.reading-indicator {
-    height: .5rem;
-    left: 0;
-    position: fixed;
-    top: 0;
-    width: 100%;
-    z-index: 99;
-}
-.reading-indicator__bar {
-    background: #3983fa;
-    border-radius: .4rem;
-    height: 100%;
-    transform: scaleX(0);
-    transform-origin: left;
-    transition: transform 50ms cubic-bezier(.45,.05,.55,.95) 0ms;
-    width: 100%;
-}
 #titre_principal
 {
 display: inline-block;
