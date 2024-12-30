@@ -162,6 +162,7 @@ article
 	display: inline-block;
 	margin-left: 20px;
 	width: 550px;
+	height: 500px;
 	vertical-align: top;
 	box-shadow: 3px 3px 5px 0px rgba(0, 0, 0, 0.16);
 	border-radius: 15px;
@@ -170,16 +171,13 @@ aside
 {
 	vertical-align: top;
 	font-family: Dayrom;
-	margin-top: 50px;
-	margin-bottom: 50px;
 	display: inline-block;
 	position: relative;
 	width: 250px;
-	margin-left: 20px;
+	height: 500px;
 	background-color: gray;
 	border-radius: 5px 5px 5px 5px;
 	color: black;
-	padding: 10px;
 }
 aside img
 {
@@ -203,6 +201,7 @@ section div
 	display: inline-block;
 	margin-left: 20px;
 	width: 450px;
+	height: 500px;
 	vertical-align: top;
 	box-shadow: 3px 3px 5px 0px rgba(0, 0, 0, 0.16);
 	border-radius: 15px;
@@ -218,6 +217,7 @@ section.grey div
 	background-color: white;
 	padding: 25px 40px 0px;
 	display: align-center;
+	height: 440px;
 	width: 550px;
 	vertical-align: top;
 	box-shadow: 3px 3px 5px 0px rgba(0, 0, 0, 0.16);
