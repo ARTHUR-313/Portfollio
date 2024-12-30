@@ -205,6 +205,11 @@ section div
 	vertical-align: top;
 	box-shadow: 3px 3px 5px 0px rgba(0, 0, 0, 0.16);
 	border-radius: 15px;
+	margin-bottom: 50px;
+}
+#p1
+{
+	text-align: justify;
 }
 #mes_amis
 {
