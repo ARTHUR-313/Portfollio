@@ -210,6 +210,12 @@ section div
 #p1
 {
 	text-align: justify;
+	margin: 10px;
+}
+p
+{
+	text-align: justify;
+	margin: 10px;
 }
 #mes_amis
 {
