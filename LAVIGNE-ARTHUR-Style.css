@@ -27,6 +27,7 @@ background: url('images/slider-developpeur-web.jpeg');
 font-family: 'Trebuchet MS', Arial, sans-serif;
 background-size: contain;
 background-attachment: fixed;
+margin: 0;
 }
 #bloc_page
 {
