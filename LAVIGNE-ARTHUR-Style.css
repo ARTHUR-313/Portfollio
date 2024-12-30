@@ -108,6 +108,7 @@ header h2
 nav ul
 {
 	list-style-type: none;
+	margin-right: 20px;
 }
 nav ul:hover {
   color: green;
@@ -120,6 +121,7 @@ nav
 	background: rgba(0, 0, 0, 0.3);
 	padding: 15px 0px;
 	width: 100%;
+	font-family: Arial;
 	
 }
 nav li 
